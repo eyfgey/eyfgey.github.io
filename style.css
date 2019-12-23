@@ -1,0 +1,57 @@
+.k{
+	color:	#00FFFF;
+}
+
+#elixirs
+{
+
+  float: right;
+  width: 200px;
+  border: 1px solid 	#A9A9A9; 
+  background: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+  text-align: center;
+}
+
+#guarantee{
+	background-image: url(images/background.gif);
+	width: 74%;
+	margin-left: 15px;
+	padding:20px;
+	padding-left: 50px;
+	font-size: 17px;
+	background-repeat: no-repeat;
+	font-style: oblique;
+	background-color: 	#5F9EA0;
+	background-size: 65px
+}
+
+.artist{
+
+	font-style: oblique;
+	font-weight:bold;
+	font-weight:bolder;
+
+
+
+}
+
+footer{
+
+	text-align: center;
+}
+
+.class{
+
+	color: red;
+}
+.cd{
+
+	font-style: italic;
+}
+
+
+#img {
+  width: 200px;
+  height: auto;
+}

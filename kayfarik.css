@@ -1,0 +1,84 @@
+h1 {
+	color: 		#F5DEB3;
+	font-size: 140px;
+}
+
+h3 {
+	color: 	#F5DEB3;
+	font-size: 140px;
+}
+
+p{ 
+	color:  white;
+
+}
+
+section{ 
+	color:  white;
+
+}
+
+iframe {
+	display: block;
+	margin-bottom: 50px; 
+}
+
+ h5{
+   color: white;
+
+}
+
+
+#g:hover{
+   
+font-size: 152px;
+}
+
+
+
+.p:hover{
+   
+font-size: 60px;
+
+}
+
+.p{
+
+color: 	#C0C0C0;
+
+}
+
+.j{
+
+	color:	#FFFAF0;
+}
+#a{
+	display: inline;
+}
+
+#t{
+       height:250px;
+       width: 1500px;
+	   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB3iAbo6-Ryw3IduzROUD1oHh5tp6nDkixMjpBUZ-MBvJA5caO&s);   
+
+	   background-size: contain;
+	   background-repeat: no-repeat;
+	   
+}
+	   
+
+}
+
+#f{
+
+	font-size: : 200px;
+}
+	
+#img {
+  width: 300px;
+  height: auto;
+}
+
+#imgdiv {
+	float: right;
+}
